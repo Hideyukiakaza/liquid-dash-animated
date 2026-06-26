@@ -4,7 +4,7 @@ A GNOME Shell 40+ Extension
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.paywithchai.in/hideyukiakaza)
 
-![Screen Shot](https://github.com/Hideyukiakaza/liquid-dash-animated/blob/liquid-glass-shader-integration-11664862574254166489/demo2.png)
+![Screen Shot](https://github.com/Hideyukiakaza/liquid-dash-animated/blob/main/demo2.png)
 
 ### Notice
 
